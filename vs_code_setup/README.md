@@ -5,6 +5,7 @@ This guide will help you set up **Visual Studio Code (VS Code)** for Python deve
 ---
 
 ## ✅ What You’ll Learn
+- Install the Python
 - Install VS Code and Python extension
 - Create and activate a virtual environment
 - Install OpenCV
@@ -69,17 +70,8 @@ print(cv2.__version__)
 ## 🔍 Step 6: Run Test Script
 Create `test.py`:
 ```python
-import cv2
-
-cap = cv2.VideoCapture(0)
-while True:
-    ret, frame = cap.read()
-    cv2.imshow("Webcam", frame)
-    if cv2.waitKey(1) & 0xFF == 27:  # ESC to exit
-        break
-cap.release()
-cv2.destroyAllWindows()
 ```
+
 Run in terminal:
 ```bash
 python test.py
@@ -88,6 +80,7 @@ python test.py
 ---
 
 ## ✅ TODO List for Learners
+- [ ] Install the Python
 - [ ] Install VS Code
 - [ ] Install Python extension
 - [ ] Create project folder and open in VS Code
