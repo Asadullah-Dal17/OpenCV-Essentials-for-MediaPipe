@@ -28,28 +28,21 @@ pip install opencv-python
 
 ***
 
-## 📫 Connect With Us
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.youtube.com/@asadullah-dal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/aiphile17" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/aiphile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.fiverr.com/aiphile" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-  <a href="https://medium.com/@aiphile" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://aiphile.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-239120?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align=\"center\">
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@asadullah-dal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aiphile17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aiphile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ai_phile)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aiphile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=About.me&logoColor=white)](https://asadullah-dal17.github.io/asadullahdal.github.io)
 
+### 💼 Freelance Platforms
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/asadullahdal482)
+[![Kwork](https://img.shields.io/badge/Kwork-Freelance-black?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.com/user/asadullah92)
+
+</div>
 ***
