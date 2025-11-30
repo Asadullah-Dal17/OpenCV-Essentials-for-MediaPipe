@@ -4,11 +4,17 @@ A practical, hands-on OpenCV course designed as a prerequisite for MediaPipe. Th
 ---
 
 ## ✅ What You’ll Learn
-- Install and set up OpenCV
+
+### 🛠️ Development Environment Setup
+- Install and configure Python
+- Set up VS Code with required extensions
+- Install and configure OpenCV
+
+### 📸 OpenCV Fundamentals
 - Read and display images
-- Access webcam and display video
-- Draw shapes and text on frames
-- Convert color spaces (BGR → RGB)
+- Access webcam and display live video streams
+- Draw shapes and text overlays on video frames
+- Convert between color spaces (BGR ↔ RGB)
 
 ---
 
@@ -26,7 +32,7 @@ pip install opencv-python
 *   [ ] Draw rectangle, circle, and text on video frames
 *   [ ] Convert BGR to RGB and understand why it’s needed
 
-***
+
 
 ## 📫 Let's Connect
 
@@ -45,4 +51,4 @@ pip install opencv-python
 [![Kwork](https://img.shields.io/badge/Kwork-Freelance-black?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.com/user/asadullah92)
 
 </div>
-***
+
